@@ -43,4 +43,4 @@ The project includes visualizations such as:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-**Developed by [Your Name]** *Data-driven insights into the beautiful game.*
+**Developed by Tharun** *Data-driven insights into the beautiful game.*
